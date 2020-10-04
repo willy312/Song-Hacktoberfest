@@ -1,14 +1,6 @@
 ﻿<div align="center">
 
-## Your Fav Playlist 🎧
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![Issue](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)](https://img.shields.io/github/issues/satyawikananda/your-fav-playlist)
-[![Forks](https://img.shields.io/github/forks/satyawikananda/your-fav-playlist)](https://img.shields.io/github/forks/satyawikananda/your-fav-playlist)
-[![Stars](https://img.shields.io/github/stars/satyawikananda/your-fav-playlist)](https://img.shields.io/github/stars/satyawikananda/your-fav-playlist)
+## Your Fav Playlist
 
 </div>
 
