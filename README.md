@@ -17,69 +17,7 @@ Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playli
 | Best Song Japan 2019 (Sad) | [YouTube](https://www.youtube.com/watch?v=UIyL1jI7Xwc) | YouTube | [Henry6612700](https://github.com/Henry6612700) | - | - |
 
 
-## Lo-Fi HipHop
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- | ------------- | -------- | ------- | ------- |
-| Calm Lo-Fi | [YouTube](https://www.youtube.com/playlist?list=PLzSbS-J9ZsjCTBBKFqbqhSvRaIDQzE5it) | Youtube  | [Virdio Samuel](https://github.com/diosamuel) | Lagu untuk menemani mu belajar |
-| lofi hip hop music - beats to relax/study to | [Spotify](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q) | Spotify  | [Ismail Habibi](https://github.com/ismlhbb) | A daily selection of chill beats - perfect to help you relax & study 📚 |
-| chilledCow - Lo-Fi Hip Hop | [YouTube](https://m.youtube.com/playlist?list=PL6NdkXsPL07KiewBDpJC1dFvxEubnNOp1) | Youtube | [Juwand](https://github.com/andreasjp0) | - |
-| Lofi Hip Hop Music To Chill / Relax / Study | [Spotify](https://open.spotify.com/playlist/3LFIBdP7eZXJKqf3guepZ1) | Spotify  | [Lofi Fruits](https://lnk.to/lofi-everywhere) | - |
-| This Is Kupla | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gAPSp) | Spotify | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)  | - |
-| lofi/sleep | [SoundCloud](https://soundcloud.com/yourwaifusad/sets/lofi) | SoundCloud | [repaintable](https://soundcloud.com/yourwaifusad) | - |
-| sad lofi for sleepless nights | [Youtube](https://www.youtube.com/watch?v=4w7_weFCKSY&list=PLOzDu-MXXLljUH6SXbGzt1eJ7wqhW-yZY) | Youtube | the bootleg boy(https://www.youtube.com/thebootlegboy/) | malam tanpa tidur dan memikirkanmu |
 
-## Instrumental
-
-| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
-| ------------- | ------------- | -------- | ------- | --------- |
-| This is Yiruma | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX4HXqI93DPvP?si=yFgz3sL3QnyRo7lKNQUKGA) | Spotify | [Tryo Asnafi](https://github.com/tryoasnafi) | - |
-| Two Steps from Hell - Best Of | [Spotify](https://open.spotify.com/playlist/2fB70widHMbmYBU36c7dCz) | Spotify | [Joseph Simms](https://open.spotify.com/user/thesimms2187) | - |
-
-## Podcast
-
-| Judul playlist | Link playlist | Platform | Pembuat | Kategori | Catatan |
-| ------------- | ------------- | -------- | ------- | ------- | --------- |
-| Ceritanya Developer Podcast |[Spotify](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs?si=xKeTcfhoQ36jhs5eFfQGLw)| Spotify | [Riza Fahmi](https://github.com/rizafahmi) | Teknologi | - |
-| Kode nol |[Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=duBG7S50RJOg2wA7GP0GnA)|Spotify| Deep tech foundation | Teknologi | - |
-| Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
-| Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) |
-|Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - |
-| Menjadi Manusia | [Spotify](https://open.spotify.com/show/3czvHT8ALg4yRSSTmZvPOe?si=057YYEeZS6yXlRzk2xDEUw) | Spotify | Menjadi Manusia | Kehidupan | Menjadi Manusia adalah sebuah social-platform untuk mereka yang ingin berbagi & mendengar cerita-cerita tentang kehidupan dari berbagai sudut pandang, dan diharapkan mampu menjadi sebuah tangga untuk mendapatkan setitik harapan bagi mereka yang memiliki persoalan-persoalan dalam kehidupan. |
-| Muzammil | [Spotify](https://open.spotify.com/show/6SpdHJQcjLyMaG8Q5Bzksv?si=mkWSg48tTYGxrSr4-u5jwQ) | Spotify | Ojal | Murottal | - |
-| LUTALK | [Spotify](https://open.spotify.com/show/2Pkv4GbecCiPFp6pf1wXf5?si=keczsKRxRHaQ8t4MfzKypw) | Spotify | Luthfi Suryanda Atmojo | Pop Kultur | Membahas anime, manga, musik, dan berbagai macam hal terkait pop kultur secara mendalam |
-| Variant: The Podcast | [Spotify](https://open.spotify.com/show/0C1RDEc6PwmcsMI9UOlx5I?si=sqyJ4DegQzCjuVloth4U9g)/[Youtube](https://www.youtube.com/channel/UCgcLNeB5xiP89NVb8qDqM6A) | Spotify/Youtube | Variant | Pop Kultur | Komik(Marvel dan DC), Film, Gaming, dll |
-| Do You See What I See? | [Spotify](https://open.spotify.com/show/6KjdNWVqAzKwXv9IgO2SMs) | Spotify | Cerita Horor True Story | Horror | - |
-
-## Murottal
-
-| Judul playlist | Link playlist | Platform | Pembuat |  Catatan |
-| ------------- | ------------- | -------- | ------- | --------- |
-| Juz Amma - Abdul Rahman Al-Sudais | [YouTube](https://www.youtube.com/watch?v=XEjxilsYV8A&list=PL374076F8A52313C9) | Youtube | [aziz80](https://www.youtube.com/user/aziz80) | - |
-| Tilawah - Ust. Hannan Attaki | [YouTube](https://www.youtube.com/playlist?list=PLPVaZBOpYqfDkN-AEA_qVpMMFxycBk4_q) | Youtube | [HananAttaki](https://www.youtube.com/c/HananAttaki) | - |
-
-## Soul
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Soul | [Spotify](https://open.spotify.com/playlist/6KaYLhkB6HXGhKHra1IClD?si=FRVxtkT7SK2gqnf9CVOnBg) | Spotify  | [Rommy Gustiawan](https://github.com/rgxcp) | - | - |
-
-## Epic & Melodic
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| Best of the blessed | [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f) | Spotify  | [Ryan](https://github.com/Ryzenv9) | - | - |
-
-## Rap
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan |
-| -------------- |-------------- | -------- | ------- | ------- |
-| It's a Dad Thing 2 | [YouTube](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
-
-## Campursari
-
-| Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
-| -------------- |-------------- | -------- | ------- | ------- | -------- |
-| In Memoriam Of The Godfather Of Brokenheart | [Spotify](https://open.spotify.com/album/53cwVc8kPIalRTbapXuMt1?si=OasaqPmHTmacBpFQvlrZRg) | Spotify | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4?si=DWkTJ8H-RN2At7YbsjnHPg) | - | CongDut |
 
 ## Kontributor ✨
 
