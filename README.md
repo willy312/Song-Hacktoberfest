@@ -4,9 +4,6 @@
 
 </div>
 
-## Pendahuluan
-
-Your fav playlist adalah sebuah _repositori_ yang didalamnya ada beberapa playlist entah itu dari spotify, youtube music dan dimana saja. Markdown ini sudah menggunakan _Static Site Generator_ [Fiddly](https://fiddly.netlify.app/), jadi markdown ini sudah dapat diakses seperti website pada umumnya, dan sudah di hosting diatas bantuan [Vercel](https://vercel.com).
 
 
 
