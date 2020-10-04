@@ -2,7 +2,7 @@
 
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
-| Best Song Japan 2019 (Sad) | [YouTube](https://www.youtube.com/watch?v=UIyL1jI7Xwc) | YouTube | [Henry6612700](https://github.com/Henry6612700) | - | - |
+| Best Song Japan 2019 (Sad) | [YouTube](https://www.youtube.com/watch?v=UIyL1jI7Xwc) | YouTube | [Herman487](https://github.com/herman487) | - | - |
 
 
 
