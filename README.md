@@ -6,8 +6,6 @@
 | Best Song Chinese 2019 | [YouTube](https://www.youtube.com/watch?v=Kh-c-UulK-g) | YouTube | [Willy312](https://github.com/willy312) | - | - |
 
 
-
-
 ## Kontributor ✨
 
 Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupakan orang orang keren yang sudah berkontribusi di repo ini 😊:
